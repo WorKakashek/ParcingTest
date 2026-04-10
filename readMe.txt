@@ -1,0 +1,1 @@
+The first task is complete. I created two scripts. p.js collects data without product variations and creates a file output.cvs. index.js collects data with variations and creates a file glossier_products_variants.cvs. I couldn't complete the second task because I was blocked. I don't know why; I only opened the link once, and I immediately received a blocking message.
